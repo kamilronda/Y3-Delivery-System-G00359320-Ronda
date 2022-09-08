@@ -1,0 +1,17 @@
+a:link, a:visited {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:hover, a:active {
+    color: #FFC105;
+  }
+
+.btn-custom {
+    padding: 18px 28px;
+    font-size: 30px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}
